@@ -1,4 +1,4 @@
-Changelog:
+Changelogs:
 - 12/05: Updated Module 2 to include summary_level variable with conditionals to support two summary levels for each summary and a loop to rework the module's industructions, ensuring they are written in the same style as the existing loop logic. 
 
 
