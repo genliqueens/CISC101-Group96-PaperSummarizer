@@ -1,1 +1,1 @@
-
+Module 6: Key contributions summarizer. For this module, only identify the key contributions from the paper, and only extract the ones that are specifically mentioned in the paper. Ensure all information is supported by the paper, do not fabricate new information. 
