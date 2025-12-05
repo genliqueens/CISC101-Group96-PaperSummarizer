@@ -7,10 +7,10 @@ Module 2: Section Loop.
 For each module in the research paper:
   Summarize the content and check for constraints
   
-  If summary_level = short:
+  If summary_level = "short":
     Output only a 1-2 sentence summary per section
 
-  If summary_level = detailed:
+  If summary_level = "detailed":
     Output a short paragraph pus a bullet list of 3-5 key points for each section
   
 
